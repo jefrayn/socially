@@ -2,6 +2,7 @@
 Student: Jose Salinas
 Class: CMP 343
 website followed for this project: https://www.youtube.com/watch?v=vUYopHWOURg
+Vercel link for project deployment: https://socially-five-black.vercel.app/
 
 This is a full-featured **Social Media App** built using the latest **Next.js App Router** with a modern full stack tech stack. You'll find support for server actions, authentication, file uploads, and optimistic updates — all fully integrated and ready to go.
 
